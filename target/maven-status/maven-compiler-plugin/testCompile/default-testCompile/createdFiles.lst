@@ -1,0 +1,4 @@
+com/selimhorri/app/integration/PaymentShippingIntegrationTest.class
+com/selimhorri/app/service/PaymentServiceImplTest.class
+com/selimhorri/app/integration/PaymentOrderIntegrationTest.class
+com/selimhorri/app/PaymentServiceApplicationTests.class
